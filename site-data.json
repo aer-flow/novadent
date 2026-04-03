@@ -1,7 +1,7 @@
 {
   "brand_tagline": "Cabinet Stomatologic",
   "city": "Piatra Neamt",
-  "site_url": "https://novadent.vercel.app/",
+  "site_url": "https://novadent-two.vercel.app/",
   "phone_display": "0724 320 007",
   "email": "office@novadent.ro",
   "instagram_url": "https://instagram.com/clinica.novadent.nt",
@@ -22,5 +22,5 @@
   "site_title": "NovaDent | Stomatologie premium in Piatra Neamt",
   "site_description": "NovaDent ofera servicii stomatologice moderne in Piatra Neamt, cu accent pe confort, grija si rezultate naturale.",
   "map_embed_url": "https://www.google.com/maps?q=Str.%20Cuejdi%20NR.%201A%2C%20Piatra%20Neamt%2C%20Romania%2C%20610024&output=embed",
-  "og_image_url": "https://novadent.vercel.app/img/brand-preview.jpg?v=1775219253"
+  "og_image_url": "https://novadent-two.vercel.app/img/brand-preview.jpg?v=1775219253"
 }
